@@ -1,4 +1,4 @@
 SpaceInvaders
 =============
 
-Proof of concept of Space Invaders following the "Clean Architecture"
+Proof of concept of a Space Invaders programmed following the "Clean Architecture".
